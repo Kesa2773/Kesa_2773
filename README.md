@@ -64,8 +64,8 @@ This data are the links that appear at the bottom of every depication. The data 
 <repo>
     <footerlinks>
         <link>
-            <name>Follow me on Twitter</name>
-            <url>https://twitter.com/reposi3</url>
+            <name>Follow me on VK</name>
+            <url>https://vk.com/id228892827</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
